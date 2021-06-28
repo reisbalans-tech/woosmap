@@ -1,0 +1,216 @@
+{
+  "predictions": [
+    {
+      "description": "Den Haag, Nederland",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJcb2YQi-3xUcREGwejVreAAQ",
+      "reference": "ChIJcb2YQi-3xUcREGwejVreAAQ",
+      "structured_formatting": {
+        "main_text": "Den Haag",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Nederland"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Den Haag"
+        },
+        {
+          "offset": 10,
+          "value": "Nederland"
+        }
+      ],
+      "types": [
+        "locality",
+        "political",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Den Haag Centraal, Koningin Julianaplein, Den Haag, Nederland",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJv6K4Yhe3xUcRxgdRxELZjvc",
+      "reference": "ChIJv6K4Yhe3xUcRxgdRxELZjvc",
+      "structured_formatting": {
+        "main_text": "Den Haag Centraal",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Koningin Julianaplein, Den Haag, Nederland"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Den Haag Centraal"
+        },
+        {
+          "offset": 19,
+          "value": "Koningin Julianaplein"
+        },
+        {
+          "offset": 42,
+          "value": "Den Haag"
+        },
+        {
+          "offset": 52,
+          "value": "Nederland"
+        }
+      ],
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Den Haag HS, Stationsplein, Den Haag, Nederland",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJj_391R-3xUcRQNIq1S4F2vE",
+      "reference": "ChIJj_391R-3xUcRQNIq1S4F2vE",
+      "structured_formatting": {
+        "main_text": "Den Haag HS",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Stationsplein, Den Haag, Nederland"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Den Haag HS"
+        },
+        {
+          "offset": 13,
+          "value": "Stationsplein"
+        },
+        {
+          "offset": 28,
+          "value": "Den Haag"
+        },
+        {
+          "offset": 38,
+          "value": "Nederland"
+        }
+      ],
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Den Haag Centrum, Noordeinde, Den Haag, Nederland",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJAw_JPjC3xUcR23tn90std3g",
+      "reference": "ChIJAw_JPjC3xUcR23tn90std3g",
+      "structured_formatting": {
+        "main_text": "Den Haag Centrum",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Noordeinde, Den Haag, Nederland"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Den Haag Centrum"
+        },
+        {
+          "offset": 18,
+          "value": "Noordeinde"
+        },
+        {
+          "offset": 30,
+          "value": "Den Haag"
+        },
+        {
+          "offset": 40,
+          "value": "Nederland"
+        }
+      ],
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Den Haag, Centraal Station, Den Haag, Nederland",
+      "matched_substrings": [
+        {
+          "length": 8,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJKYiPYhe3xUcRSPF5Q-AxpM8",
+      "reference": "ChIJKYiPYhe3xUcRSPF5Q-AxpM8",
+      "structured_formatting": {
+        "main_text": "Den Haag, Centraal Station",
+        "main_text_matched_substrings": [
+          {
+            "length": 8,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Den Haag, Nederland"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Den Haag, Centraal Station"
+        },
+        {
+          "offset": 28,
+          "value": "Den Haag"
+        },
+        {
+          "offset": 38,
+          "value": "Nederland"
+        }
+      ],
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
